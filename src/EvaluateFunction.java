@@ -1,15 +1,15 @@
-/*
-    Hello,
-
-    I am Jomo Pipi
-
-    and today we will be evaluating an expression like this:
-
-    (there are an infinite number of radicals)
-
-    \LARGE \sqrt{x+\sqrt{x+\sqrt{x+\sqrt{x...}}}}
-
-    for a given value x
+/**
+ * Hello,
+ *
+ * I am Jomo Pipi
+ *
+ * and today we will be evaluating an expression like this:
+ *
+ * (there are an infinite number of radicals)
+ *
+ * \LARGE \sqrt{x+\sqrt{x+\sqrt{x+\sqrt{x...}}}}
+ *
+ * for a given value x
  */
 
 public class EvaluateFunction {
