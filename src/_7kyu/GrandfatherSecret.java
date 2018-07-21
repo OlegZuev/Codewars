@@ -1,3 +1,5 @@
+package _7kyu;
+
 /**
  * My grandfather always predicted how old people would get, and right before he passed away he revealed his secret!
  *

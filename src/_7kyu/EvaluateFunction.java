@@ -1,3 +1,5 @@
+package _7kyu;
+
 /**
  * Hello,
  *

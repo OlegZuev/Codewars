@@ -1,3 +1,5 @@
+package _7kyu;
+
 /**
  * We need you to implement a method of receiving commands over a network, processing the information and responding.
  *

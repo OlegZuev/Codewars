@@ -1,3 +1,5 @@
+package _7kyu;
+
 /**
  * Given the triangle of consecutive odd numbers:
  *
@@ -14,7 +16,7 @@
  */
 
 public class RowSumOddNumbers {
-    /*
+    /**
      * Велосипед, до озарения.
      */
     public static int rowSumOddNumbersOld(int n) {
@@ -32,7 +34,7 @@ public class RowSumOddNumbers {
         return counterSum;
     }
 
-    /*
+    /**
      * Очень логичная и забавная функция.
      */
 
